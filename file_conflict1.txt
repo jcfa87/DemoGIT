@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 A
+=======
+Ejercicio 6 Remoto
+>>>>>>> branch 'master' of https://github.com/jcfa87/DemoGIT.git
